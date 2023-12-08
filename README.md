@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hari41929
+- 👋 Hi, I’m Hari Haran
 - 👀 I’m interested in coding , problem solving , learning new skills
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on ...
